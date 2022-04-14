@@ -1,0 +1,12 @@
+#content {
+  text-align: center;
+  background-color: rgba(255, 255, 128, .5);
+  padding: 10px;
+  border: solid 2px #444444;
+  font-size: 18px;
+
+}
+
+#body {
+  background-color: rgba(255, 255, 128, .5);
+}
