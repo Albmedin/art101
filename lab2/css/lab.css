@@ -1,0 +1,31 @@
+#content {
+	outline-style: dotted;
+	text-align: center;
+	background-color: #B5C689;
+	width:  500px;
+	padding:  10px;
+	margin:  0 auto;
+	border:  solid 1px #444444;
+	font-size: 20px;
+}
+
+#content h1 {
+	color: #0D3D56;
+	font-size: 45px;
+}
+
+#content h3 {
+	font-size: 25px;
+}
+
+#content h5 {
+	font-size: 20px;
+}
+
+#content p {
+	text-indent: 10px;
+}
+
+body {
+	background-color: #5C5F58;
+}
