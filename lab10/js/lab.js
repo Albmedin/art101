@@ -33,4 +33,4 @@ function doSomething() {
 	// Replace pName with user's name & announce w/ announcement
 	announce.innerText = "Your sorted name is below:";
 	pName.innerText = userName;
-} 
+}
