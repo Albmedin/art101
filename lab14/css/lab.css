@@ -6,6 +6,7 @@
 	margin:  0 auto;
 	border:  solid 1px #444444;
 	font-size: 20px;
+	text-align	: center;
 }
 
 #challenge, #problem, #title, #res{
@@ -15,6 +16,7 @@
 button {
 	align-content: center;
 }
+
 
 #output {
 	border: solid 1px #000;
